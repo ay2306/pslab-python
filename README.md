@@ -1,4 +1,4 @@
-# PSLab Python Library
+# PSLab Python Library (Swami Nandan(Delhi))
 
 The Python library for the [Pocket Science Lab](https://pslab.io) from FOSSASIA.
 
